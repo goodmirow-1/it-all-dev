@@ -1,0 +1,42 @@
+{
+  "name": "it-all-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodmirow-1/it-all-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodmirow-1/it-all-dev/issues"
+  },
+  "homepage": "https://github.com/goodmirow-1/it-all-dev#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "date-utils": "^1.2.21",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "formidable": "^2.1.1",
+    "fs": "0.0.1-security",
+    "fs-extra": "^11.1.0",
+    "htp": "^0.13.0",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "node-schedule": "^2.1.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.27.0",
+    "sequelize-cli": "^6.5.2",
+    "util": "^0.12.5"
+  }
+}
